@@ -1,6 +1,7 @@
 # NGL SPAM
-ngl spam using termux 
-
+Spamming the Ngl using this command
+# Note
+don't abuse this tool!
 # INSTALLATION
 
 ```sh
