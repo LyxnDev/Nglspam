@@ -25,9 +25,9 @@ def main():
 █▄░█ █▀▀ █░░ █▀ █▀█ ▄▀█ █▀▄▀█
 █░▀█ █▄█ █▄▄ ▄█ █▀▀ █▀█ █░▀░█
 =============================
-[+] Made By: @shinji_Dev
-[+] Github: Ricoddev
-[+] Facebook: Shinji_Dev
+[+] Made By: @Heru_Dev
+[+] Github: LyxnDev
+[+] Facebook: Jay mar
 =============================
     """
     banner = f"\033[91m{banner_text}\033[0m"
