@@ -15,3 +15,8 @@ git pull
 
 python nglspam.py
 ```
+
+# Author
+```sh
+Heru dev
+```
