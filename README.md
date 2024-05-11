@@ -15,6 +15,25 @@ git pull
 
 python nglspam.py
 ```
+# INSTALLATION2
+
+```sh
+pkg update
+
+pkg upgrade
+
+pkg install git
+
+pkg install python-pip
+
+git clone https://github.com/LyxnDev/Nglspam.git
+
+cd Nglspam
+
+git pull
+
+python nglspam.py
+```
 
 # Author
 ```sh
